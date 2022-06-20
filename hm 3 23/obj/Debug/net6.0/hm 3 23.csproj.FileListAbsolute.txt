@@ -1,0 +1,30 @@
+C:\Users\Hp\Desktop\hm 3 23\bin\Debug\net6.0\hm 3 23.exe
+C:\Users\Hp\Desktop\hm 3 23\bin\Debug\net6.0\hm 3 23.deps.json
+C:\Users\Hp\Desktop\hm 3 23\bin\Debug\net6.0\hm 3 23.runtimeconfig.json
+C:\Users\Hp\Desktop\hm 3 23\bin\Debug\net6.0\hm 3 23.dll
+C:\Users\Hp\Desktop\hm 3 23\bin\Debug\net6.0\hm 3 23.pdb
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.AssemblyInfo.cs
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.dll
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\refint\hm 3 23.dll
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.pdb
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\hm 3 23.genruntimeconfig.cache
+C:\Users\Hp\Desktop\hm 3 23\obj\Debug\net6.0\ref\hm 3 23.dll
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\bin\Debug\net6.0\hm 3 23.exe
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\bin\Debug\net6.0\hm 3 23.deps.json
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\bin\Debug\net6.0\hm 3 23.runtimeconfig.json
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\bin\Debug\net6.0\hm 3 23.dll
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\bin\Debug\net6.0\hm 3 23.pdb
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.dll
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\refint\hm 3 23.dll
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.pdb
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\hm 3 23.genruntimeconfig.cache
+C:\Users\Hp\Desktop\HOMEWORK SEMINAR 3\hm 3 23\obj\Debug\net6.0\ref\hm 3 23.dll
